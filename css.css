@@ -9,3 +9,9 @@ p{
 h1{
     color: brown;
 }
+.img{
+    height: auto;
+    width: 200px;
+    border: 2px solid gold;
+    border-radius: 20px;
+}
